@@ -1,1 +1,4 @@
-"C:\Users\medos\Downloads\task\IEEE\main.py" git status
+radius = float(input("enter the radius : "))
+sum = 22 / 7 * radius * radius
+print("the area = ", sum)
+
