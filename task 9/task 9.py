@@ -1,4 +1,4 @@
-"""
+
 def is_number_prime (num) :
     if num <= 1: #the value must be greater than 1
         print("the value is not prime ")
@@ -17,7 +17,7 @@ try:
     is_number_prime(num) #call the function
 except: #if the user put anything except the numbers
     print("please enter the true value ")
-"""
+
 """
 from math import * # i use this library to use function sqrt
 def square (num):
